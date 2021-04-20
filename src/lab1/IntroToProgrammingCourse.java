@@ -9,7 +9,7 @@ import javax.swing.*;
  * @author your name goes here
  * @version 1.00
  */
-public class IntroToProgrammingCourse {
+public class IntroToProgrammingCourse extends Course {
 
     String courseNumber;
     private String courseName;
